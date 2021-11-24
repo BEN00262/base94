@@ -1,3 +1,4 @@
+// Reffered from: https://github.com/DakotaNelson/sneaky-creeper/blob/master/sneakers/base94.py
 package base94
 
 import (
